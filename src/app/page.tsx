@@ -31,7 +31,7 @@ export default function Home() {
           <div className="hero-promise"><BadgeCheck size={17} /> Sin tarjeta ni pasarela de pago para empezar</div>
         </div>
         <div className="hero-visual" aria-label="Vista previa del panel de Postre">
-          <div className="ambient ambient-one" /><div className="ambient ambient-two" />
+          
           <div className="dashboard glass">
             <div className="dash-top"><div><span className="dash-kicker">TU ESPACIO POSTRE</span><strong>Tu negocio, en orden</strong></div><span className="avatar">P</span></div>
             <div className="dash-stats"><div className="stat-card glass"><span>Ventas de hoy</span><strong>US$ 86,50</strong><small className="positive">↑ 12% esta semana</small></div><div className="stat-card glass"><span>Pedidos activos</span><strong>08</strong><small>3 por confirmar</small></div></div>
